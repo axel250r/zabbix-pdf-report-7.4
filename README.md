@@ -7,14 +7,16 @@
   <a href="https://paypal.me/axel250r">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white">
   </a>
-  <a href="https://github.com/axel250r/zabbix-pdf-report-6.0/stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/axel250r/zabbix-pdf-report-6.0.svg?style=social&logo=github&cacheSeconds=60&_v=2025-09-28-10">
+  <a href="https://github.com/axel250r/zabbix-pdf-report-7.4/stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/axel250r/zabbix-pdf-report-7.4?style=social&label=Stars&logo=github">
+  </a>
+  <a href="https://github.com/axel250r/zabbix--pdf-report-7.4">
+    <img alt="Views" src="https://komarev.com/ghpvc/?username=axel250r&repo=zabbix--pdf-report-7.4&color=brightgreen&style=flat-square">
   </a>
   <a href="https://www.linkedin.com/in/axel-del-canto-del-canto-4ba643186/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Axel%20Del%20Canto-0A66C2?logo=linkedin&logoColor=white">
   </a>
 </p>
-
 
 
 Created by **Axel Del Canto** WITH IA.
